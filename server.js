@@ -66,7 +66,7 @@ app.post('/uploadJsondata', (req,res) => {
        
     });
 
-    res.send('Data is inserting, Please wait for last response!!!');
+    // res.send('Data is inserting, Please wait for last response!!!');
       
       
 });
